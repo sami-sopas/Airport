@@ -7,7 +7,7 @@ For this project the "Queues and Stacks" data structures were mainly used.
 Thanks to the object-oriented approach, it was easy to transmit information from one data structure to another without losing data integrity.
 
 ## Extra
-- The main menu is controlled with the keyboard arrows (UP & DOWN)
+- The main menu is controlled with the keyboard arrows (UP & DOWN) and ENTER
 - The animations use the windows.h library so if you don't use windows you may get an error
 - The data structures are made with templates so you can change the objects if necessary
 
